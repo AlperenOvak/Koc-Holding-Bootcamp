@@ -1,3 +1,3 @@
 # Koc-Holding-Bootcamp
 
-# Begginig
+# Beginning
